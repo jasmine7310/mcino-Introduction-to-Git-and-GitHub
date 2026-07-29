@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert ca5fc44 [origin/bug-fix-revert] Revert "edit footer"
+  bug-fix-typo   dcebfc5 [origin/bug-fix-typo] edit footer
+  main           dcebfc5 [origin/main: ahead 1] edit footer
